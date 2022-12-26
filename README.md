@@ -1,4 +1,4 @@
 # tjc30.github.io
-tim test
+tjc30 READ.md file
 
 tjc30 web page on github
